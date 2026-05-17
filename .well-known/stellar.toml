@@ -1,1 +1,100 @@
-.
+
+[DOCUMENTATION]
+ORG_NAME="Partner companies in the Canton network"
+ORG_DBA="Digital Asset develops the core infrastructure."
+ORG_URL="https://stellarcore.nelify.app"
+ORG_LOGO="https://stellarcore.netlify.apps/assets/logo.png"
+ORG_GITHUB="best-coin"
+
+[[CURRENCIES]]
+code="LUKKA"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Lukka Data Solutions"
+desc="kka is the first choice of crypto-asset funds and fund service providers. More of the world’s funds, fund administrators"
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/LukkaInc.jpg"
+
+[[CURRENCIES]]
+code="LUGANODES"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="luganodes"
+desc="Institutional-Grade
+Blockchain Infrastructure"
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/luganodes.jpg"
+
+[[CURRENCIES]]
+code="LSE"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Londo Stock Exchange"
+desc="SparkLive, London Stock Exchange's fully integrated online events platform"
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://.netlify.apps/assets/LondonStock Exchange.jpg"
+
+[[CURRENCIES]]
+code="LEDGER"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Ledger"
+desc="Thinking about buying crypto or NFTs? You’ll need a crypto wallet.When you create a wallet, two keys are generated: a private one and a public one. The wallet stores your keys and enables you to sign transactions, generate new addresses, initiate transfers, track portfolio balances, manage your crypto, and interact with dApps.
+Crypto wallets come in many forms, from hardware wallets, like Ledger’s, to mobile apps that you can download on your phone or tablet."
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/Ledger.png"
+ 
+[[CURRENCIES]]
+code="LAUNCHNODES"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Launchnodes"
+desc="We provide nodes and decentralized application development on Ethereum, Canton, Aztec and private networks."
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/luganodes.png"
+
+[[CURRENCIES]]
+code="KUCOIN"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="KuCoin"
+desc="Trust First. Trade Next"
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/KuCoin.png"
+
+[[CURRENCIES]]
+code="KRAKEN"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Kraken"
+desc="Supercharge your trading strategies with our simple, powerful suite of crypto tools. Sign up in minutes and start trading with as little as $10."
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/Kraken.jpeg"
+
+[[CURRENCIES]]
+code="KES"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Koch Energy Services"
+desc="Koch Energy Services (KES) and Koch Canada Energy Services market natural gas throughout North America. We provide a full line of services, including purchasing, sales, transportation, scheduling, storage, hedging, asset optimization and market analysis."
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/Koch Energy Services.png"
+
+[[CURRENCIES]]
+code="KLARSIGN"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="KlarSign"
+desc="KlarSign is the privacy-enabled, blockchain-based signing solution that ensures documents remain verifiable, immutable, and independent of any single vendor."
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/KlarSign.jpg"
+
+[[CURRENCIES]]
+code="KALEIDO"
+issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
+display_decimals=7
+name="Kaleido"
+desc="The institutional platform for
+tokenization, custody and digital assets"
+conditions="It is possible to purchase tokens from participating companies on the Canton network."
+image="https://stellarcore.netlify.apps/assets/Kaleido.png"
