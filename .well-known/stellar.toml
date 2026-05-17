@@ -20,8 +20,7 @@ code="LUGANODES"
 issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
 display_decimals=7
 name="luganodes"
-desc="Institutional-Grade
-Blockchain Infrastructure"
+desc="Institutional-GradeBlockchain Infrastructure"
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
 image="https://stellarcore.netlify.apps/assets/luganodes.jpg"
 
@@ -94,7 +93,6 @@ code="KALEIDO"
 issuer="GDXV3FNRVRPLMLVJF7YQYGMBEIBZPNW6W3MCTAKMOEZ7DXNWKSU6PSET"
 display_decimals=7
 name="Kaleido"
-desc="The institutional platform for
-tokenization, custody and digital assets"
+desc="The institutional platform for tokenization, custody and digital assets"
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
 image="https://stellarcore.netlify.apps/assets/Kaleido.png"
