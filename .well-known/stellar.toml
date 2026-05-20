@@ -21,7 +21,7 @@ display_decimals=7
 name="luganodes"
 desc="Institutional-GradeBlockchain Infrastructure"
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
-image="https://stellarcore.netlify.app/assets/luganodes.jpg"
+image="https://stellarcore.netlify.app/assets/luganodes.png"
 
 [[CURRENCIES]]
 code="LSE"
@@ -49,7 +49,7 @@ display_decimals=7
 name="Launchnodes"
 desc="We provide nodes and decentralized application development on Ethereum, Canton, Aztec and private networks."
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
-image="https://stellarcore.netlify.app/assets/luganodes.png"
+image="https://stellarcore.netlify.app/assets/Launchnodes.png"
 
 [[CURRENCIES]]
 code="KUCOIN"
