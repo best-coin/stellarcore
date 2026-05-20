@@ -21,7 +21,7 @@ display_decimals=7
 name="luganodes"
 desc="Institutional-GradeBlockchain Infrastructure"
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
-image="https://stellarcore.netlify.apps/assets/luganodes.jpg"
+image="https://stellarcore.netlify.app/assets/luganodes.jpg"
 
 [[CURRENCIES]]
 code="LSE"
@@ -30,7 +30,7 @@ display_decimals=7
 name="Londo Stock Exchange"
 desc="SparkLive, London Stock Exchange's fully integrated online events platform"
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
-image="https://.netlify.app/assets/LondonStock Exchange.jpg"
+image="https://stellarcore.netlify.app/assets/LondonStock Exchange.jpg"
 
 [[CURRENCIES]]
 code="LEDGER"
@@ -94,4 +94,4 @@ display_decimals=7
 name="Kaleido"
 desc="The institutional platform for tokenization, custody and digital assets"
 conditions="It is possible to purchase tokens from participating companies on the Canton network."
-image="https://stellarcore.netlify.apps/assets/Kaleido.png"
+image="https://stellarcore.netlify.app/assets/Kaleido.png"
